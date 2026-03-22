@@ -17,13 +17,13 @@ This project analyzes sales data from a corrugated box manufacturing business to
 ## 📊 Dashboard Preview
 
 ### Profit Analysis
-![Profit](Profit%20Analysis%20by%20Product.png)
+![Profit](profit%20analysis.png)
 
 ### Client vs Revenue
-![Client](Client%20vs%20Revenue.png)
+![Client](client%20vs%20revenue.png)
 
 ### Product vs Revenue
-![Product](Product%20vs%20Revenue.png)
+![Product](product%20vs%20revenue.png)
 ## 📂 Files
 - sales_data.csv → dataset
 - sales_analysis.py → analysis script
