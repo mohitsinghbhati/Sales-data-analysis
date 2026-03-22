@@ -23,7 +23,7 @@ This project analyzes sales data from a corrugated box manufacturing business to
 ![Client](Client%20vs%20Revenue.png)
 
 ### Product vs Revenue
-![Product](Product%20vs%20Revenue%20.png)
+![Product](Product%20vs%20Revenue%2.png)
 ## 📂 Files
 - sales_data.csv → dataset
 - sales_analysis.py → analysis script
