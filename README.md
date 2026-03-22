@@ -15,7 +15,14 @@ This project analyzes sales data from a corrugated box manufacturing business to
 - Highest Revenue Client: Escorts
 
 ## 📊 Dashboard Preview
-(Add screenshots here)
+### Profit Analysis
+![Profit](Profit%20Analysis%20by%20Product.png)
+
+### Client vs Revenue
+![Client](Client%20vs%20Revenue.png)
+
+### Product vs Revenue
+![Product](Product%20vs%20Revenue%20.png)
 
 ## 📂 Files
 - sales_data.csv → dataset
