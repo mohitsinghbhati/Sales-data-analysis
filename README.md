@@ -16,13 +16,13 @@ This project analyzes sales data from a corrugated box manufacturing business to
 
 ## 📊 Dashboard Preview
 ### Profit Analysis
-![Profit](Profit_analysis.png)
+(Profit_analysis.png)
 
 ### Client vs Revenue
-![Client](Client_vs_Revenue.png)
+(Client_vs_Revenue.png)
 
 ### Product vs Revenue
-![Product](Product_vs_Revenue.png)
+(Product_vs_Revenue.png)
 
 ## 📂 Files
 - sales_data.csv → dataset
